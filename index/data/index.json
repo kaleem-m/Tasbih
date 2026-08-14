@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "categories": {
+    "dua": [
+      {
+        "id": "daily-life",
+        "label": "Daily Life",
+        "description": "Supplications for everyday routines, meals, travel, and the home."
+      },
+      {
+        "id": "protection-safety",
+        "label": "Protection",
+        "description": "Seeking Allah's refuge, care, and safety from harm."
+      },
+      {
+        "id": "forgiveness-repentance",
+        "label": "Forgiveness",
+        "description": "Turning back to Allah with humility and sincere repentance."
+      },
+      {
+        "id": "guidance-faith",
+        "label": "Guidance & Faith",
+        "description": "Asking for steadfastness, clarity, and spiritual growth."
+      },
+      {
+        "id": "rizq-work",
+        "label": "Rizq & Work",
+        "description": "Prayers for provision, beneficial work, and worldly affairs."
+      },
+      {
+        "id": "family-relationships",
+        "label": "Family & Bonds",
+        "description": "Supplications for marriage, family, and loving relationships."
+      },
+      {
+        "id": "health-hardship",
+        "label": "Health & Hardship",
+        "description": "Seeking healing, ease, patience, and relief from distress."
+      },
+      {
+        "id": "worship-akhirah",
+        "label": "Worship & Akhirah",
+        "description": "Prayers for accepted worship, the Hereafter, and Jannah."
+      }
+    ],
+    "dhikr": [
+      {
+        "id": "morning-evening",
+        "label": "Morning & Evening",
+        "description": "Established adhkar for the opening and closing of the day."
+      },
+      {
+        "id": "after-salah",
+        "label": "After Salah",
+        "description": "Remembrances narrated after the obligatory prayers."
+      },
+      {
+        "id": "daily-adhkar",
+        "label": "Daily Adhkar",
+        "description": "Short remembrances to keep the heart connected throughout the day."
+      },
+      {
+        "id": "before-sleep",
+        "label": "Before Sleep",
+        "description": "Adhkar recited when settling down for the night."
+      },
+      {
+        "id": "istighfar",
+        "label": "Istighfar",
+        "description": "Words of repentance and seeking Allah's forgiveness."
+      },
+      {
+        "id": "tasbih-tahmid-takbir",
+        "label": "Tasbih & Takbir",
+        "description": "Glorifying, praising, and magnifying Allah."
+      },
+      {
+        "id": "protection-adhkar",
+        "label": "Protection Adhkar",
+        "description": "Remembrances for refuge and protection."
+      },
+      {
+        "id": "specific-occasions",
+        "label": "Occasions",
+        "description": "Dhikr connected to travel and other specific moments."
+      },
+      {
+        "id": "salawat",
+        "label": "Salawat ﷺ",
+        "description": "Sending prayers and peace upon the Prophet ﷺ."
+      },
+      {
+        "id": "quranic-prophetic",
+        "label": "Qur'anic & Prophetic",
+        "description": "Remembrances preserved in the Qur'an and Sunnah."
+      }
+    ]
+  },
+  "files": [
+    "duas.json",
+    "dhikr.json"
+  ]
+}

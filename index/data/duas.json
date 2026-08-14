@@ -1,0 +1,93 @@
+{
+  "type": "dua",
+  "entries": [
+    {
+      "id": "dua-daily-leaving-home",
+      "type": "dua",
+      "arabic": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Bismillāh, tawakkaltu ‘alallāh, lā ḥawla wa lā quwwata illā billāh.",
+      "translation": "In the name of Allah, I place my trust in Allah; there is no power and no strength except through Allah.",
+      "source": "Sunan Abī Dāwūd 5095",
+      "category": "daily-life",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-protection-perfect-words",
+      "type": "dua",
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "transliteration": "A‘ūdhu bi-kalimātillāhit-tāmmāti min sharri mā khalaq.",
+      "translation": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+      "source": "Ṣaḥīḥ Muslim 2709",
+      "category": "protection-safety",
+      "recommendedCount": 3,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-forgiveness-rabbana",
+      "type": "dua",
+      "arabic": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+      "transliteration": "Rabbanā ẓalamnā anfusanā wa illam taghfir lanā wa tarḥamnā lanakūnanna minal-khāsirīn.",
+      "translation": "Our Lord, we have wronged ourselves. If You do not forgive us and have mercy upon us, we will surely be among the losers.",
+      "source": "Qur’an 7:23",
+      "category": "forgiveness-repentance",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-guidance-steadfast-heart",
+      "type": "dua",
+      "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+      "transliteration": "Yā Muqallibal-qulūb, thabbit qalbī ‘alā dīnik.",
+      "translation": "O Turner of hearts, keep my heart firm upon Your religion.",
+      "source": "Jāmi‘ at-Tirmidhī 2140",
+      "category": "guidance-faith",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-rizq-knowledge-deeds",
+      "type": "dua",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+      "transliteration": "Allāhumma innī as’aluka ‘ilman nāfi‘an, wa rizqan ṭayyiban, wa ‘amalan mutaqabbalan.",
+      "translation": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds.",
+      "source": "Sunan Ibn Mājah 925",
+      "category": "rizq-work",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-family-comfort",
+      "type": "dua",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "transliteration": "Rabbanā hab lanā min azwājinā wa dhurriyyātinā qurrata a‘yunin waj‘alnā lil-muttaqīna imāmā.",
+      "translation": "Our Lord, grant us from our spouses and children comfort to our eyes and make us an example for the righteous.",
+      "source": "Qur’an 25:74",
+      "category": "family-relationships",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-health-wellbeing",
+      "type": "dua",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+      "transliteration": "Allāhumma innī as’alukal-‘afwa wal-‘āfiyata fid-dunyā wal-ākhirah.",
+      "translation": "O Allah, I ask You for pardon and well-being in this world and the Hereafter.",
+      "source": "Sunan Ibn Mājah 3871",
+      "category": "health-hardship",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dua-worship-peace",
+      "type": "dua",
+      "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+      "transliteration": "Allāhumma Antas-Salāmu wa minkas-salām, tabārakta yā Dhal-Jalāli wal-Ikrām.",
+      "translation": "O Allah, You are Peace and from You comes peace. Blessed are You, O Possessor of majesty and honour.",
+      "source": "Ṣaḥīḥ Muslim 591",
+      "category": "worship-akhirah",
+      "recommendedCount": 1,
+      "audioUrl": null
+    }
+  ]
+}

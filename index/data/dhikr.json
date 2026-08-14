@@ -1,0 +1,115 @@
+{
+  "type": "dhikr",
+  "entries": [
+    {
+      "id": "dhikr-morning-evening-contentment",
+      "type": "dhikr",
+      "arabic": "رَضِيتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ ﷺ نَبِيًّا",
+      "transliteration": "Raḍītu billāhi Rabban, wa bil-Islāmi dīnan, wa bi-Muḥammadin ﷺ Nabiyyan.",
+      "translation": "I am pleased with Allah as my Lord, Islam as my religion, and Muhammad ﷺ as my Prophet.",
+      "source": "Sunan Abī Dāwūd 5072",
+      "category": "morning-evening",
+      "recommendedCount": 3,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-after-salah-istighfar",
+      "type": "dhikr",
+      "arabic": "أَسْتَغْفِرُ اللَّهَ",
+      "transliteration": "Astaghfirullāh.",
+      "translation": "I seek Allah’s forgiveness.",
+      "source": "Ṣaḥīḥ Muslim 591",
+      "category": "after-salah",
+      "recommendedCount": 3,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-daily-beloved-words",
+      "type": "dhikr",
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "transliteration": "Subḥānallāhi wa biḥamdih.",
+      "translation": "Glory and praise be to Allah.",
+      "source": "Ṣaḥīḥ al-Bukhārī 6405",
+      "category": "daily-adhkar",
+      "recommendedCount": 100,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-before-sleep",
+      "type": "dhikr",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "Bismikallāhumma amūtu wa aḥyā.",
+      "translation": "In Your name, O Allah, I die and I live.",
+      "source": "Ṣaḥīḥ al-Bukhārī 6324",
+      "category": "before-sleep",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-master-istighfar",
+      "type": "dhikr",
+      "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+      "transliteration": "Astaghfirullāha wa atūbu ilayh.",
+      "translation": "I seek Allah’s forgiveness and repent to Him.",
+      "source": "Ṣaḥīḥ al-Bukhārī 6307",
+      "category": "istighfar",
+      "recommendedCount": 100,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-tasbih-tahmid-takbir",
+      "type": "dhikr",
+      "arabic": "سُبْحَانَ اللَّهِ · الْحَمْدُ لِلَّهِ · اللَّهُ أَكْبَرُ",
+      "transliteration": "Subḥānallāh · Alḥamdulillāh · Allāhu Akbar.",
+      "translation": "Glory be to Allah · All praise is for Allah · Allah is the Greatest.",
+      "source": "Ṣaḥīḥ Muslim 597",
+      "category": "tasbih-tahmid-takbir",
+      "recommendedCount": 33,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-protection-bismillah",
+      "type": "dhikr",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismillāhilladhī lā yaḍurru ma‘asmihi shay’un fil-arḍi wa lā fis-samā’, wa Huwas-Samī‘ul-‘Alīm.",
+      "translation": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm, and He is the All-Hearing, All-Knowing.",
+      "source": "Sunan Abī Dāwūd 5088",
+      "category": "protection-adhkar",
+      "recommendedCount": 3,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-occasion-travel",
+      "type": "dhikr",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+      "transliteration": "Subḥānalladhī sakhkhara lanā hādhā wa mā kunnā lahu muqrinīn.",
+      "translation": "Glory be to Him who has subjected this to us, for we could never have accomplished this by ourselves.",
+      "source": "Qur’an 43:13",
+      "category": "specific-occasions",
+      "recommendedCount": 1,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-salawat-ibrahimiyyah",
+      "type": "dhikr",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+      "transliteration": "Allāhumma ṣalli ‘alā Muḥammadin wa ‘alā āli Muḥammad.",
+      "translation": "O Allah, send Your prayers upon Muhammad and upon the family of Muhammad.",
+      "source": "Ṣaḥīḥ al-Bukhārī 6357",
+      "category": "salawat",
+      "recommendedCount": 10,
+      "audioUrl": null
+    },
+    {
+      "id": "dhikr-quranic-tawakkul",
+      "type": "dhikr",
+      "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ، وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "transliteration": "Ḥasbiyallāhu lā ilāha illā Huwa, ‘alayhi tawakkaltu, wa Huwa Rabbul-‘Arshil-‘Aẓīm.",
+      "translation": "Allah is sufficient for me. None has the right to be worshipped except Him. In Him I place my trust, and He is Lord of the Mighty Throne.",
+      "source": "Qur’an 9:129",
+      "category": "quranic-prophetic",
+      "recommendedCount": 7,
+      "audioUrl": null
+    }
+  ]
+}
